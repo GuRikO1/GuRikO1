@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+* Twitter: [@subsubgu](https://twitter.com/subsubgu)
+* LinkedIn: [Yuriko Ezaki](https://www.linkedin.com/in/yuriko-ezaki-a559b3181/)
 
-![](https://komarev.com/ghpvc/?username=GuRikO1&color=green)
+
+[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GuRikO1/GuRikO1/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **GuRikO1/GuRikO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
